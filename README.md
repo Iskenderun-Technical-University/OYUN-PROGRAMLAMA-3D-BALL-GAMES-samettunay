@@ -132,36 +132,37 @@ Features
 ```
 ## Proje Zaman Çizelgesi
 
-### Önemli
-
-### noktalar
-
-### Tanım Due
-
-#### #
+```
+05/02
+```
 
 - Tüm oynanabilirlik(Gameobject) için temel nesnelerle proje ve kamera
     _kurulumlarının yapılması._
-       mm/dd
 
-#### #
-
-- _Oyuncu tüm yönlerde hareket edebilir ve oyun alanından ayrılamaz._
-    mm/dd
-
-#### #
-
-- _Nesneler ekranın yukarısından ortaya çıkar(spawning)_
-- _Oyuncu başka bir hayvanla çarpıştığında zıplar_
-- Oyuncu canlanma(life- _up) ile çarpıştığında yok edilir._
 
 ```
-mm/dd
+05/03
+```
+
+- _Oyuncu sağ ve sol hareket edebilir ve oyun alanından ayrılamaz._
+
+
+```
+05/04
+```
+
+- Top nesnesi ekranın ortasında ortaya çıkar.
+
+```
+05/05
 ```
 #### #
 
 - _Temel nesneler ve arkaplan gerçek 3B Asset’lerle değiştirilir._
-    mm/dd
+
+```
+05/06
+```
 
 #### #
 
@@ -169,33 +170,25 @@ mm/dd
     sadece konsolda görülüyor.
 
 ```
-mm/dd
+05/07
 ```
 #### #
 
 - _Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
 ```
-mm/dd
+05/08
 ```
 #### #
 
 - _Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
 ```
-mm/dd
+05/09
 ```
 
-```
 Backlog
 ```
-- - _Oyuncunun engellerin üzerinden atlamasını sağlayan Powerup nesnesi_
-- - _Baş harflerinizi girmenizi ve puanları kaydetmenizi sağlayan Yüksek Puan_
-    panosu
-
-```
-mm/dd
-```
-## Project Sketch
+- - Skorun gözükmesi
 
 
