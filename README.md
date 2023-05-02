@@ -82,7 +82,6 @@ User Interface
 ```
 05/05
 ```
-#### #
 
 - Temel nesneler ve arkaplan gerçek 3B Asset’lerle değiştirilir._
 
@@ -90,22 +89,18 @@ User Interface
 05/06
 ```
 
-#### #
-
 - Gameover mekanik programlandı, ancak kullanıcı arayüzüne eklenmedi_ -
     sadece konsolda görülüyor.
 
 ```
 05/07
 ```
-#### #
 
 - Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
 ```
 05/08
 ```
-#### #
 
 - Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
@@ -113,8 +108,6 @@ User Interface
 05/09
 ```
 
-#### #
-
-Skorun gözükmesi
+- Skorun gözükmesi
 
 
