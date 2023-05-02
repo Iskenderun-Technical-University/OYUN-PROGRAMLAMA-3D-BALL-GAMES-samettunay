@@ -18,7 +18,7 @@ Kontrol edilen
 ```
 #### #
 
-- _Bir düz çizgi üstten görünen bir oyun sahnesindedir.
+- Bir düz çizgi üstten görünen bir oyun sahnesindedir.
 
 ```
 bu oyunda ok tuşları oyuncuyu
@@ -26,7 +26,7 @@ bu oyunda ok tuşları oyuncuyu
 
 #### #
 
-- _Sadece sağa ve sola
+- Sadece sağa ve sola
 
 
 ```
@@ -36,14 +36,14 @@ Gameplay
 
 #### #
 
-- _Oyun sırasında, top ortaya çıkarlar bunlar ekranın yanından gelirler.
+- Oyun sırasında, top ortaya çıkarlar bunlar ekranın yanından gelirler.
 
 ```
 Oyunun amacı
 ```
 #### #
 
-- _Karşı taraftaki çizgiye top ile gol atarak onu yenmektir.
+- Karşı taraftaki çizgiye top ile gol atarak onu yenmektir.
 
 
 ```
@@ -53,7 +53,7 @@ Sound
 
 #### #
 
-- _Ses efektleri Top çizgiye çarptığında ve parça efektleri Gol olduğunda olacaktır.
+- Ses efektleri Top çizgiye çarptığında ve parça efektleri Gol olduğunda olacaktır.
 
 ```
 Gameplay
@@ -61,7 +61,7 @@ Mechanics
 ```
 #### #
 
-- _Oyun ilerledikçe, karşı taraf çizgi topu yollar ve oyunda Topu tutmaya çalışırız [seçkisel] Aynı zamanda Topu karşı çizgiye atarız
+- Oyun ilerledikçe, karşı taraf çizgi topu yollar ve oyunda Topu tutmaya çalışırız [seçkisel] Aynı zamanda Topu karşı çizgiye atarız
 
 ```
 User
@@ -69,7 +69,7 @@ Interface
 ```
 
 #### # 
-- _Skor çoğalır Oyuncu her gol attığında Oyunun başında Pong Başlığı görünecek ve oyun 3 skor olunca bitecek.
+- Skor çoğalır Oyuncu her gol attığında Oyunun başında Pong Başlığı görünecek ve oyun 3 skor olunca bitecek.
 
 
 ## Proje Zaman Çizelgesi
@@ -86,7 +86,7 @@ Interface
 05/03
 ```
 
-- _Oyuncu sağ ve sol hareket edebilir ve oyun alanından ayrılamaz._
+- Oyuncu sağ ve sol hareket edebilir ve oyun alanından ayrılamaz._
 
 
 ```
@@ -100,7 +100,7 @@ Interface
 ```
 #### #
 
-- _Temel nesneler ve arkaplan gerçek 3B Asset’lerle değiştirilir._
+- Temel nesneler ve arkaplan gerçek 3B Asset’lerle değiştirilir._
 
 ```
 05/06
@@ -108,7 +108,7 @@ Interface
 
 #### #
 
-- _Gameover mekanik programlandı, ancak kullanıcı arayüzüne eklenmedi_ -
+- Gameover mekanik programlandı, ancak kullanıcı arayüzüne eklenmedi_ -
     sadece konsolda görülüyor.
 
 ```
@@ -116,14 +116,14 @@ Interface
 ```
 #### #
 
-- _Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
+- Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
 ```
 05/08
 ```
 #### #
 
-- _Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
+- Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
 ```
 05/09
