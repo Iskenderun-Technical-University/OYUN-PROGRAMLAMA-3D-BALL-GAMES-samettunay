@@ -1,4 +1,4 @@
-# Projec Tasarım Belgesi
+# 3D Pong Game Proje Tasarım Belgesi
 
 #### 05 - 02 - 2023
 
