@@ -12,10 +12,9 @@ Hacı Samet TUNAY
 ```
 Player
 Control
-```
-```
 Kontrol edilen
 ```
+
 #### #
 
 - Bir düz çizgi üstten görünen bir oyun sahnesindedir.
