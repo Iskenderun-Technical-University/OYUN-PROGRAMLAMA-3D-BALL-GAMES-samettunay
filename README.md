@@ -10,9 +10,7 @@ Hacı Samet TUNAY
 
 
 ```
-Player
-Control
-Kontrol edilen
+Player Control _> Kontrol edilen
 ```
 
 - Bir düz çizgi üstten görünen bir oyun sahnesindedir.
@@ -25,8 +23,7 @@ bu oyunda ok tuşları oyuncuyu
 
 
 ```
-Basic
-Gameplay
+Basic Gameplay
 ```
 
 - Oyun sırasında, top ortaya çıkarlar bunlar ekranın yanından gelirler.
@@ -39,23 +36,20 @@ Oyunun amacı
 
 
 ```
-Sound
-& Effects
+Sound & Effects
 ```
 
 - Ses efektleri Top çizgiye çarptığında ve parça efektleri Gol olduğunda olacaktır.
 
 ```
-Gameplay
-Mechanics
+Gameplay Mechanics
 ```
 
 
 - Oyun ilerledikçe, karşı taraf çizgi topu yollar ve oyunda Topu tutmaya çalışırız [seçkisel] Aynı zamanda Topu karşı çizgiye atarız
 
 ```
-User
-Interface
+User Interface
 ```
 
 
