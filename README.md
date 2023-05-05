@@ -3,7 +3,7 @@
 #### 05 - 02 - 2023
 
 ```
-Hacı Samet TUNAY
+Hacı Samet TUNAY 192523068
 ```
 ## Proje Konsept
 
