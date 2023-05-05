@@ -15,6 +15,9 @@ Player Control
 
 - Bir topu kontrol ediyoruz
 
+![Screenshot_5](https://user-images.githubusercontent.com/79511355/236458703-1c5cb599-bf0c-45ed-8bb1-3363a5e2fcc4.png)
+
+
 ```
 Bu oyunda ok tuşları oyuncuyu
 ```
@@ -82,5 +85,11 @@ Sound & Effects
 ```
 
 - Çeşitli parkurlar ve sahneler oluşturuldu.
+
+![Screenshot_6](https://user-images.githubusercontent.com/79511355/236458827-f6076d88-b918-4a83-86ed-1803c2ace829.png)
+
+![Screenshot_4](https://user-images.githubusercontent.com/79511355/236458843-1ad9da80-8cd8-451c-a9c3-cde1d3d2c7e9.png)
+
+
 
 
