@@ -1,9 +1,9 @@
 # 3D Pong Game Proje Tasarım Belgesi
 
-#### 05 - 02 - 2023
+#### Ad Soyad - Numara
 
 ```
-Hacı Samet TUNAY 192523068
+Hacı Samet TUNAY - 192523068
 ```
 ## Proje Konsept
 
