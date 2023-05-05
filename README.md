@@ -105,7 +105,7 @@ User Interface
 - Parçacık, ses efektleri ve arkaplan kaydırma(scrolling) eklendi_
 
 ```
-05/09
+05/08
 ```
 
 - Skorun gözükmesi
