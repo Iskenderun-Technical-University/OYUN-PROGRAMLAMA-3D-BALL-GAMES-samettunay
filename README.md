@@ -1,5 +1,10 @@
 # 3D Pong Game Proje Tasarım Belgesi
 
+Unity sürüm 2019 ( bakarak yaptığım videoda yapan kişi 2019 sürümünü kullanıyordu )
+Sahneler ve çeşitli plaftormlar Assets/Scenes/ içinde
+
+
+
 #### Ad Soyad - Numara
 
 ```
